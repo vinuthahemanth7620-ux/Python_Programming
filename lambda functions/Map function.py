@@ -2,5 +2,5 @@
 
 Number = [10,20,30,40,50]
 Double_Number = map(lambda Number : Number * 2, Number)
-Result = (Double_Number)
+Result = list(Double_Number)
 print("The double of every number in a list is :", Result )
