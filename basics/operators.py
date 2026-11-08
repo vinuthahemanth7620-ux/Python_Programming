@@ -2,6 +2,8 @@
 # is positive, negative or zero using comparison and logical operators.
 
 number = int(input("enter the value = "))
+print(number)
+
 if number > 0:
     print("positive number", number)
 elif number < 0:
