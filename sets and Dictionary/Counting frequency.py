@@ -8,5 +8,4 @@ for i in String:
         Frequency[i] +=1
     else:
         Frequency[i] = 1
-
 print(" The Frequency of each character in the given string :", Frequency)
