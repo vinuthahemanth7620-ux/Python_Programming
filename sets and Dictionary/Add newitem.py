@@ -6,4 +6,5 @@ dictionary = {
 }
 print(dictionary)
 dictionary["Cources"] = ["Ml", "Dl"]
+dictionary["Collage"] = "MIT"
 print(dictionary)
