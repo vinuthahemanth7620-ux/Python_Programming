@@ -7,5 +7,7 @@ for i in string:
     if i in vowels:
         count +=1
 
-print("the number of vowels in string:", count)
+print("The Given String is :",string)       
+print("The number of vowels in string:", count)
+
 
