@@ -7,8 +7,6 @@ for i in L:
     if i > Largest:
         Second_largest = Largest
         Largest = i
-
-
     elif i > Second_largest and i < Largest :
         Second_largest = i
 
