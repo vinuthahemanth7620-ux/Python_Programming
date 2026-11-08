@@ -10,7 +10,6 @@ for i in Numbers:
     if Difference in Seen:
         break
     Seen[i] = True
-       
-      
+            
 print("The two numbers which equals to the target value are :",Difference , "and",i)
 
