@@ -6,5 +6,9 @@ Set_1 = set(List_1)
 Set_2 = set( List_2)
 Common_elements = Set_1 & Set_2
 
+#unique elements in both list
+Unique_elements = Set_1 | Set_2
+
 print(" The Common elements in both sets are : ", Common_elements)
+print(" The Unique elements in both sets are : ", Unique_elements)
 
