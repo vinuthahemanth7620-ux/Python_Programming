@@ -5,4 +5,4 @@ Number_2 = int(input("Enter the Number :"))
 if Number_1 != Number_2:
     print("The Two numbers are not Equal")
 else:
-    print("The Two numbers are Equal")
+    print("The Two numbers are Equal")                                                           
