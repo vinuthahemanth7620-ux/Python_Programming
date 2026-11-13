@@ -7,4 +7,5 @@ count=0
 for i in string:
     if i == Character:
         count +=1
+        
 print(f" the number of {Character}'s in the given string {string} is: ", count)
