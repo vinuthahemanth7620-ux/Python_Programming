@@ -3,6 +3,7 @@
 string = str(input("enter teh string: "))
 print(string)
 reversed = string[: : -1]
+
 if string == reversed:
     print("the given string is Palindrome")
 else:
